@@ -58,6 +58,11 @@ h1 {
   text-align: center;
 }
 
+.text{
+  display: inline;
+
+}
+
 .tell-footer {
   position: absolute;
   right: 20px;
